@@ -1,4 +1,4 @@
-##Data Analysis and Visualization Capstone Project, Fall 2021
+# Data Analysis and Visualization Capstone Project, Fall 2021
 
 This repository contains
 1.The Pima-indians-diabetes data set downloaded from Kaggle.com.
